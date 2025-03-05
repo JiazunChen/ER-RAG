@@ -2,7 +2,7 @@
 
 ## Overview
 
-This version of the repository has been tailored specifically for the **ER-RAG** competition, as part of the KDD Cup. While this repository provides insights into some components of our approach, the complete ER-RAG codebase is not included here at this time. We are actively exploring ways to share more details about ER-RAG in the future and appreciate your understanding.
+This version of the repository has been tailored for KDD CUP. While this repository provides insights into some components of our approach, the complete ER-RAG codebase is not included here at this time. We are actively exploring ways to share more details about ER-RAG in the future and appreciate your understanding.
 
 ## Repository Structure
 
