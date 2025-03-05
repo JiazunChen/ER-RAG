@@ -1,0 +1,7 @@
+{
+	"challenge_id" : "meta-kdd-cup-24-crag-knowledge-graph-and-web-retrieval",
+	"authors" : ["jiazunchen","yikuan_xia"],
+	"description" : "Meta KDD Cup 24 - CRAG - Retrieval Su1mmarization Agent",
+    "gpu": true,
+    "gpu_count": 4
+}
